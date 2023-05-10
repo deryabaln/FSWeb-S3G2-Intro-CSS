@@ -1,0 +1,105 @@
+* {
+    font-family: Roboto Mono;
+}
+
+h1 {
+    font-family: Chelsea Market;
+}
+
+.container {
+    margin: 0 auto;
+    width: 1400px;
+}
+
+.menu nav a {
+    background: #5ED3EB;
+    margin: 0 150px;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 15px;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 80px;
+}
+
+.menu nav a:first-child {
+    background: #FF764E;
+}
+
+.menu nav a:last-child {
+    background: #FFCD69;
+}
+
+.baslik div {
+    display: inline-block;
+    width: 55%;
+    text-align: center;
+    margin-left: 10%;
+}
+
+.baslik img {
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+    margin-left: 5%;
+    display: inline-block;
+}
+
+.bilgilendirme {
+    background: #DDB9A3;
+    padding: 0% 0.6%;
+    margin-bottom: 30px;
+    width: 1200px;
+    height: 120px;
+    text-align: center;
+    color: white;
+    font-size: 15px;
+}
+
+.tanıtım img {
+    width: 90px;
+    height: 90px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0%;
+}
+
+.tanıtım p {
+    text-align: center;
+    width: 300px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0%;
+}
+
+footer img {
+    width: 1400px;
+    height: 200px;
+}
+
+footer {
+    background: #F9E7DC;
+    width: 1400px;
+}
+
+footer nav a {
+    background: #5ED3EB;
+    margin: 0 150px;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 15px;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 2%;
+    margin-top: 2%;
+}
+
+footer nav a:first-child {
+    background: #FF764E;
+}
+
+footer nav a:last-child {
+    background: #FFCD69;
+}
